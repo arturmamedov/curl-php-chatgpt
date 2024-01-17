@@ -41,7 +41,7 @@ $decoded_response = json_decode($response, true);
 
 print_r($decoded_response);
 
-// response
+// response example
 /*
 Array
 (
